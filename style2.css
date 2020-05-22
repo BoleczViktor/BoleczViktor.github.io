@@ -1,0 +1,52 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+   margin: 0; 
+}
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+#mainHeader{
+    background: #333;
+    color: white;
+}
+#mainNav{
+    background: #ccc;
+    color: black;
+}
+#mainNav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+#mainNav li {
+    display: inline;
+    padding: 5px 10px;
+}
+#mainNav a {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+#mainNav li:hover {
+background: #aaa;
+}
+
+    
+    
+
+p{
+    
+    font-size: 30px;
+}
+#jumbo{
+    background-image: url(https://www.fanuc.eu/~/media/corporate/customer-cases/sheet%20metal/walter/walter-banner-part-1.jpg?h=560&la=hu&w=1600);
+    background-position: center  center;
+    min-height: 400px;
+    max-width: center ;
+
+
+}
